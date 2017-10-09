@@ -1,7 +1,27 @@
 {
-  "name": "plimpo-diaristas",
-  "short_name": "plimpo",
+  "name": "Plimpo Diaristas",
+  "short_name": "Plimpo",
   "icons": [
+    {
+      "src": "img/icons/android-chrome-36x36.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icons/android-chrome-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icons/android-chrome-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icons/android-chrome-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
     {
       "src": "img/icons/android-chrome-192x192.png",
       "sizes": "192x192",
@@ -15,6 +35,6 @@
   ],
   "start_url": "/plimpo-pwa/index.html",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#4DBA87"
+  "background_color": "#ffffff",
+  "theme_color": "#EF6C00"
 }
